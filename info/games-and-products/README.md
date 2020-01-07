@@ -10,7 +10,9 @@ description: UnityやLive２Dなど、形になっている成果物です。
 
 {% embed url="https://booth.pm/ja/items/1766164" %}
 
+{% embed url="https://nizima.com/item/detailitem/3261" %}
 
+Live2Dを使っていちからさいごまで作った成果物です。
 
 
 
@@ -18,9 +20,11 @@ description: UnityやLive２Dなど、形になっている成果物です。
 
 ![Android&#x7528;&#x306E;&#x30D3;&#x30EB;&#x30C9;](../../.gitbook/assets/sukurnshotto-2019-03-27-001128.webp)
 
-{% embed url="https://web.editey.com/18Z7giqXpHbbVXVd\_zF1ZGizaTbivx73a/index.html" %}
+{% embed url="https://web.editey.com/18Z7giqXpHbbVXVd\_zF1ZGizaTbivx73a/index.html" caption="音出ます（音量注意）" %}
 
+{% embed url="https://booth.pm/ja/items/1290610" %}
 
+ひたすらジャンプするだけの虚無みたいなゲームです。
 
 
 
@@ -30,7 +34,7 @@ description: UnityやLive２Dなど、形になっている成果物です。
 
 {% embed url="https://booth.pm/ja/items/1377898" %}
 
-
+横スクロールで進展する「動く絵本」を目指してつくりました。Unityでの学習成果第一弾。
 
 
 
