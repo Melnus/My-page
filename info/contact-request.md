@@ -15,8 +15,15 @@ Twitter:@Melnus\_ / Discord: Melnus\#2688
 　-マウスカーソル  
 　等々のご依頼が可能です！  
 ...詳しくはSkebからご覧ください  
-  
-[https://skeb.jp/@Melnus\_](https://skeb.jp/@Melnus_)
+
+
+{% embed url="https://skeb.jp/@Melnus\_" %}
+
+{% embed url="https://profile.coconala.com/users/1660343" %}
+
+{% embed url="https://skima.jp/profile?id=97747" %}
+
+
 
 ![](../.gitbook/assets/undefined.png)
 
