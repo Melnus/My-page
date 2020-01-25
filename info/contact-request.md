@@ -14,7 +14,11 @@ Twitter:@Melnus\_ / Discord: Melnus\#2688
 　-アイコン  
 　-マウスカーソル  
 　等々のご依頼が可能です！  
-...詳しくはSkebからご覧ください  
+...詳しくはSkebからご覧ください
+
+・Live2D  
+受付中です！  
+　-原画一枚をお貸しいただきLive2Dで動かすところまでやります。  
 
 
 {% embed url="https://skeb.jp/@Melnus\_" %}
