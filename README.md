@@ -6,6 +6,8 @@ Melnusのホームページです
 
 ![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
+![](.gitbook/assets/ikasumin.png)
+
 連絡
 
 {% page-ref page="info/contact-request.md" %}
