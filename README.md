@@ -6,7 +6,9 @@ Melnusのホームページです
 
 ![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
+連絡
 
+{% page-ref page="info/contact-request.md" %}
 
 個人としての説明
 

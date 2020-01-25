@@ -5,6 +5,7 @@
 ## Info
 
 * [About](info/about.md)
+* [Contact＆Request](info/contact-request.md)
 * [Games & Products](info/games-and-products/README.md)
   * [Line Stamp](info/games-and-products/line-stamp.md)
 * [Models](info/models.md)
