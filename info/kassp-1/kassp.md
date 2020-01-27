@@ -1,10 +1,6 @@
----
-description: いわゆるデスクトップマスコットです。
----
+# ゴースト「ツグネ」
 
-# 伺か（SSP）
-
-![](../.gitbook/assets/ac1826_1979707382b8492293af242f5e5b35cb_mv2.webp)
+![](../../.gitbook/assets/ac1826_1979707382b8492293af242f5e5b35cb_mv2.webp)
 
 SSP　伺か用ゴースト「ツグネ」
 
@@ -17,14 +13,6 @@ SSP　伺か用ゴースト「ツグネ」
 ※注意
 
 ​narと呼ばれるものをダウンロードしたからといってあなたのパソコンに危険が及ぶことはありません。ただキャラクターを表示するプログラム群です。
-
-​
-
-​
-
-[SSPとは](http://ssp.shillest.net/)
-
-[Android版](https://play.google.com/store/apps/details?id=com.dendenfactory.ukagakaforandroid&hl=ja)
 
 ​
 
