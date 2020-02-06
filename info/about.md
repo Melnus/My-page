@@ -14,9 +14,11 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 {% embed url="https://www.foriio.com/xr-melnus/" %}
 
-{% embed url="https://github.com/Melnus" %}
+{% embed url="https://github.com/Melnus" caption="モデルなど" %}
 
-{% embed url="https://www.pixiv.net/member.php?id=23070523" %}
+{% embed url="https://www.pixiv.net/member.php?id=23070523" caption="絵やアイコンなど" %}
+
+{% embed url="https://www.youtube.com/channel/UCHlN\_3HbcL\_Gx-izLJ3lSSQ" caption="動画集" %}
 
 
 
