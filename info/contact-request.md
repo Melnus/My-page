@@ -3,13 +3,11 @@
 SkebやTwitterなどから連絡してください。  
 Twitter:@Melnus\_ / Discord: Melnus\#2688
 
+
+
 連絡フォーム
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfl3Sr70ZtoirCAq6\_efRLNlQzqz0M0nIFgmaHfY-PnrQ810Q/viewform?usp=sf\_link" %}
-
-
-
-
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfl3Sr70ZtoirCAq6\_efRLNlQzqz0M0nIFgmaHfY-PnrQ810Q/viewform" %}
 
 ・３D  
 現在は停止中ですがそのうちやります！  
