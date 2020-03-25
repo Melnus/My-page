@@ -24,6 +24,10 @@ SSP　伺か用ゴースト「ツグネ」
 
 [​​追加シェル「水着」​（R18）](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=75293563)
 
+ \(03/25/2020更新\)  
+ツグネ３D（着物）  
+[https://hub.vroid.com/characters/2727294579418687959/models/3699350283001042097](https://hub.vroid.com/characters/2727294579418687959/models/3699350283001042097)
+
 
 
 ダウンロード
