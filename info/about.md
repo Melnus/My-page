@@ -20,6 +20,10 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 {% embed url="https://www.youtube.com/channel/UCHlN\_3HbcL\_Gx-izLJ3lSSQ" caption="動画集" %}
 
+{% embed url="https://melnus.fanbox.cc/" %}
+
+
+
 
 
 {% embed url="https://twitter.com/Melnus\_" %}
