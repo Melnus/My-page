@@ -20,11 +20,15 @@ Melnusのホームページです
 
 {% page-ref page="info/games-and-products/" %}
 
+{% page-ref page="info/games-and-products/line-stamp.md" %}
+
 ３Dモデル
 
 {% page-ref page="info/models.md" %}
 
 そのほかのリンク
+
+{% page-ref page="info/kassp-1/" %}
 
 {% page-ref page="info/links.md" %}
 
