@@ -4,11 +4,25 @@ description: ラインスタンプのページです
 
 # Line Stamp
 
-作成中
+第一号　レーネのスタンプ - LINE スタンプ \| LINE STORE 
 
-作成状況＆作成リスト
+![](../../.gitbook/assets/sukurnshotto-2020-03-31-154043.png)
 
-{% embed url="https://docs.google.com/spreadsheets/d/1JRVvsTUwpAJNSKvsBhvRZGrl8MuHrUKxQsp8xLnKHLU/edit?usp=sharing" %}
+{% embed url="https://store.line.me/stickershop/product/11282477/ja" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
