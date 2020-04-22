@@ -22,7 +22,7 @@ Live2Dを使っていちからさいごまで作った成果物です。
 
 {% embed url="https://melnus.booth.pm/items/1235608" %}
 
-
+SteamVRのみ対応で、まだスタンドアロンのVRには対応していません。
 
 
 
