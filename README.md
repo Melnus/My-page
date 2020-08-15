@@ -50,6 +50,12 @@ NeosVRJP-Techbook　作例＆チュートリアルをまとめるサイト
 
 {% embed url="https://melnus.github.io/NeosVRJP-Techbook/" %}
 
+VRアバター準備横断ガイド（作成〜アップまで）
+
+{% embed url="https://preparate-avatar-introduction.memo.wiki/" %}
+
+
+
 
 
 
