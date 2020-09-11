@@ -6,6 +6,8 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 ## あなたは誰？
 
+{% embed url="https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89" %}
+
 個人でVR用のモデルやUnityで何かをつくっています。
 
 個人開発を行っている、VRの中に住むものです。
