@@ -24,7 +24,7 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 {% embed url="https://melnus.fanbox.cc/" %}
 
-
+{% embed url="https://pawoo.net/@Melnus" caption="Mastodon" %}
 
 
 
@@ -32,7 +32,7 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 
 
-[Mastodon](https://pawoo.net/@Melnus) \(on Pawoo\)
+
 
 
 
