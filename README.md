@@ -48,7 +48,7 @@ NeosVRの日本語Wiki
 
 NeosVRJP-Techbook　作例＆チュートリアルをまとめるサイト
 
-{% embed url="https://melnus.github.io/NeosVRJP-Techbook/" %}
+{% embed url="https://logix-educational-institute.github.io/NeosVRJP-Techbook/" %}
 
 VRアバター準備横断ガイド（作成〜アップまで）
 
