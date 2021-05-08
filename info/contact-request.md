@@ -3,6 +3,11 @@
 SkebやTwitterなどから連絡してください。  
 Twitter:@Melnus\_ / Discord: Melnus\#2688
 
+Discordにいることがおおいです。  
+下のURLはサーバーの招待です。
+
+[https://discord.com/invite/rR4tbQsJ2q](https://discord.com/invite/rR4tbQsJ2q)
+
 
 
 連絡フォーム
