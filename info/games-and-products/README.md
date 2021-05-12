@@ -4,7 +4,11 @@ description: UnityやLive２Dなど、形になっている成果物です。
 
 # Games & Products
 
+## 3DGame
 
+Comming Soon...
+
+## Live2D
 
 ![Live2D&#x306E;&#x30C7;&#x30E2;&#x3002;&#x4E0B;&#x8A18;URL&#x304B;&#x3089;](../../.gitbook/assets/ac1826_ae76014c54fc4c33a0978f0141fd7165_mv2.webp)
 
@@ -16,19 +20,21 @@ description: UnityやLive２Dなど、形になっている成果物です。
 
 Live2Dを使っていちからさいごまで作った成果物です。
 
-## \[α ver\] "Ewokacja" The VR Viewer for VRoid Hub
 
 
+## VRViewer for VRoid Hub
 
 ![&#x3044;&#x308F;&#x3086;&#x308B;VR Viewer&#x3067;&#x3059;](../../.gitbook/assets/c00ab289-0642-4373-ac1a-512544730056_base_resized.jpg)
 
 {% embed url="https://melnus.booth.pm/items/1235608" %}
 
+SteamVRのみ対応で、まだスタンドアロンのVRには対応していません。
 
 
 
 
 
+## WebGL/Android
 
 ![Android&#x7528;&#x306E;&#x30D3;&#x30EB;&#x30C9;](../../.gitbook/assets/sukurnshotto-2019-03-27-001128.webp)
 
@@ -40,7 +46,7 @@ Live2Dを使っていちからさいごまで作った成果物です。
 
 
 
-
+## Stand-alone \(Windows\)
 
 ![&quot;Where&apos;s My Dog?&quot;&#x3000;&#x30B9;&#x30BF;&#x30F3;&#x30C9;&#x30A2;&#x30ED;&#x30F3;&#x3002;&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9;&#x304C;&#x5FC5;&#x8981;&#x3067;&#x3059;&#x3002;](../../.gitbook/assets/e95b1a1849519276c71bb96318c24248.webp)
 
