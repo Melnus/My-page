@@ -18,11 +18,16 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 
 
-終末医療に関して
+### 親族・友人の方
+
+しかるべきときに読んでください。  
+必要なものは別にまとめておきます。
+
+#### 終末医療に関して
 
 {% embed url="https://www.notion.so/melnus/daa78882f362494e94668fbbcd0fbd57" %}
 
-遺書に関して
+#### 遺書に関して
 
 {% embed url="https://www.notion.so/melnus/2f4b8b2182fa423ba4c5946112758667" %}
 
