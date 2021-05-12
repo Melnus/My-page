@@ -1,5 +1,5 @@
 ---
-description: UnityやLive２Dなど、形になっている成果物です。
+description: UnityやLive２Dなど、形になっている成果物です。上から新しい順。
 ---
 
 # Games & Products
@@ -9,6 +9,14 @@ description: UnityやLive２Dなど、形になっている成果物です。
 {% embed url="https://twitter.com/Melnus\_/status/1384456997941088258" %}
 
 Comming Soon...
+
+## VRViewer for VRoid Hub
+
+![&#x3044;&#x308F;&#x3086;&#x308B;VR Viewer&#x3067;&#x3059;](../../.gitbook/assets/c00ab289-0642-4373-ac1a-512544730056_base_resized.jpg)
+
+{% embed url="https://melnus.booth.pm/items/1235608" %}
+
+SteamVRのみ対応で、まだスタンドアロンのVRには対応していません。
 
 ## Live2D
 
@@ -21,16 +29,6 @@ Comming Soon...
 {% embed url="https://nizima.com/item/detailitem/3261" %}
 
 Live2Dを使っていちからさいごまで作った成果物です。
-
-
-
-## VRViewer for VRoid Hub
-
-![&#x3044;&#x308F;&#x3086;&#x308B;VR Viewer&#x3067;&#x3059;](../../.gitbook/assets/c00ab289-0642-4373-ac1a-512544730056_base_resized.jpg)
-
-{% embed url="https://melnus.booth.pm/items/1235608" %}
-
-SteamVRのみ対応で、まだスタンドアロンのVRには対応していません。
 
 
 
