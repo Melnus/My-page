@@ -8,7 +8,7 @@ description: UnityやLive２Dなど、形になっている成果物です。上
 
 {% embed url="https://twitter.com/Melnus\_/status/1384456997941088258" %}
 
-Comming Soon...
+Coming Soon...
 
 ## VRViewer for VRoid Hub
 
