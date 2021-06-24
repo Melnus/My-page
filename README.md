@@ -6,7 +6,11 @@ Melnusのホームページです
 
 ![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
+{% embed url="https://www.youtube.com/watch?v=G\_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
+
 ![](.gitbook/assets/ikasumin.png)
+
+
 
 連絡
 
@@ -56,7 +60,7 @@ VRアバター準備横断ガイド（作成〜アップまで）
 
 
 
-
+{% file src=".gitbook/assets/wakusei\_.mp4" %}
 
 
 
