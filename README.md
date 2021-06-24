@@ -64,7 +64,3 @@ VRアバター準備横断ガイド（作成〜アップまで）
 
 
 
-{% file src=".gitbook/assets/wakusei\_.mp4" %}
-
-
-
