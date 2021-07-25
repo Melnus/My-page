@@ -10,6 +10,14 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 個人開発を行っている、VRの中に住むものです。
 
+
+
+### 自鯖
+
+{% embed url="https://discord.com/invite/rR4tbQsJ2q" %}
+
+
+
 以下は個人的な内容のため、興味のない人は読み飛ばしてください。
 
 ホーム
@@ -17,6 +25,8 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 {% embed url="https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89" %}
 
 
+
+## Notion
 
 ### 親族・友人の方
 

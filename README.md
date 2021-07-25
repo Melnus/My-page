@@ -14,7 +14,7 @@
 
 ### 連絡
 
-{% page-ref page="info/contact-request.md" %}
+{% page-ref page="info/contact-request/" %}
 
 ### 個人としての説明
 
