@@ -4,7 +4,8 @@
 
 ## Info
 
-* [About](info/about.md)
+* [About](info/about/README.md)
+  * [Portfolio](info/about/portfolio.md)
 * [Contact＆Request](info/contact-request/README.md)
   * [Price List](info/contact-request/price-list.md)
 * [Games & Products](info/games-and-products/README.md)
@@ -17,4 +18,3 @@
 ## Memo
 
 * [Links](memo/links.md)
-

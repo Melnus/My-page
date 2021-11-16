@@ -2,11 +2,11 @@
 
 ## Welcome to My Homepage
 
-![&#x3053;&#x3046;&#x3044;&#x3046;&#x611F;&#x3058;&#x306E;&#x3082;&#x306E;&#x3092;&#x3064;&#x304F;&#x3063;&#x3066;&#x3044;&#x307E;&#x3059;](.gitbook/assets/mylive2d.gif)
+![こういう感じのものをつくっています](.gitbook/assets/mylive2d.gif)
 
 ![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
-{% embed url="https://www.youtube.com/watch?v=G\_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
+{% embed url="https://www.youtube.com/watch?v=G_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
 
 ![](.gitbook/assets/ikasumin.png)
 
@@ -14,31 +14,47 @@
 
 ### 連絡
 
-{% page-ref page="info/contact-request/" %}
+{% content-ref url="info/contact-request/" %}
+[contact-request](info/contact-request/)
+{% endcontent-ref %}
 
 ### 個人としての説明
 
-{% page-ref page="info/about.md" %}
+{% content-ref url="info/about/" %}
+[about](info/about/)
+{% endcontent-ref %}
 
 ### 成果物
 
-{% page-ref page="info/games-and-products/" %}
+{% content-ref url="info/games-and-products/" %}
+[games-and-products](info/games-and-products/)
+{% endcontent-ref %}
 
-{% page-ref page="info/games-and-products/line-stamp.md" %}
+{% content-ref url="info/games-and-products/line-stamp.md" %}
+[line-stamp.md](info/games-and-products/line-stamp.md)
+{% endcontent-ref %}
 
 ### ３Dモデル
 
-{% page-ref page="info/models.md" %}
+{% content-ref url="info/models.md" %}
+[models.md](info/models.md)
+{% endcontent-ref %}
 
 ### そのほかのリンク
 
-{% page-ref page="info/kassp-1/" %}
+{% content-ref url="info/kassp-1/" %}
+[kassp-1](info/kassp-1/)
+{% endcontent-ref %}
 
-{% page-ref page="info/links.md" %}
+{% content-ref url="info/links.md" %}
+[links.md](info/links.md)
+{% endcontent-ref %}
 
-### Memo &gt; Links
+### Memo > Links
 
-{% page-ref page="memo/links.md" %}
+{% content-ref url="memo/links.md" %}
+[links.md](memo/links.md)
+{% endcontent-ref %}
 
 
 
@@ -61,6 +77,4 @@
 ### 白夜極光有志Wiki & Discord
 
 {% embed url="https://wikiwiki.jp/alchemystars/" %}
-
-
 

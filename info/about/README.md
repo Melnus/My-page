@@ -10,6 +10,22 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 個人開発を行っている、VRの中に住むものです。
 
+どんなことをしているかについては以下をご覧ください。
+
+{% content-ref url="portfolio.md" %}
+[portfolio.md](portfolio.md)
+{% endcontent-ref %}
+
+具体的なものに関してはこちら
+
+{% content-ref url="../games-and-products/" %}
+[games-and-products](../games-and-products/)
+{% endcontent-ref %}
+
+{% content-ref url="../models.md" %}
+[models.md](../models.md)
+{% endcontent-ref %}
+
 
 
 ### 自鯖
@@ -30,7 +46,7 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 ### 親族・友人の方
 
-しかるべきときに読んでください。  
+しかるべきときに読んでください。\
 必要なものは別にまとめておきます。
 
 #### 終末医療に関して
@@ -63,29 +79,7 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688'
 
 
 
-
-
-
-
-## **ポートフォリオ等**
-
-{% embed url="https://www.foriio.com/xr-melnus/" %}
-
-{% embed url="https://github.com/Melnus" caption="モデルなど" %}
-
-{% embed url="https://www.pixiv.net/member.php?id=23070523" caption="絵やアイコンなど" %}
-
-{% embed url="https://www.youtube.com/channel/UCHlN\_3HbcL\_Gx-izLJ3lSSQ" caption="動画集" %}
-
-{% embed url="https://melnus.fanbox.cc/" %}
-
-{% embed url="https://pawoo.net/@Melnus" caption="Mastodon" %}
-
-
-
-{% embed url="https://twitter.com/Melnus\_" %}
-
-
+{% embed url="https://twitter.com/Melnus_" %}
 
 
 
