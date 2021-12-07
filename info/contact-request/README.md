@@ -1,6 +1,6 @@
 # Contact＆Request
 
-SkebやTwitterなどから連絡してください。\
+Twitterから連絡してください。\
 Twitter:@Melnus\_ / Discord: Melnus#2688
 
 
