@@ -1,9 +1,10 @@
 # Contact＆Request
 
 連絡先\
-Twitter:@Melnus\_ / Discord: Melnus#2688
+Discord: Melnus#2688 / Twitter:@Melnus\_
 
-
+作成日：2021年7月25日 / Jul 25 2021\
+作成者：Melnus
 
 ## ３Dモデル作成依頼
 
