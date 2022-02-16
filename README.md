@@ -6,9 +6,9 @@
 
 ![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
-{% embed url="https://www.youtube.com/watch?v=G_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
+{% embed url="https://www.youtube.com/watch?v=S0BrUyHQhX0" %}
 
-![](.gitbook/assets/ikasumin.png)
+{% embed url="https://www.youtube.com/watch?v=G_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
 
 ## 目次
 
@@ -73,8 +73,3 @@
 ### VRアバター準備横断ガイド（作成〜アップまで）
 
 {% embed url="https://preparate-avatar-introduction.memo.wiki/" %}
-
-### 白夜極光有志Wiki & Discord
-
-{% embed url="https://wikiwiki.jp/alchemystars/" %}
-
