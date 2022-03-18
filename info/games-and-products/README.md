@@ -4,12 +4,6 @@ description: UnityやLive２Dなど、形になっている成果物です。上
 
 # Games & Products
 
-## 3DGame
-
-{% embed url="https://twitter.com/Melnus_/status/1384456997941088258" %}
-
-Coming Soon...
-
 ## VRViewer for VRoid Hub
 
 ![いわゆるVR Viewerです](../../.gitbook/assets/c00ab289-0642-4373-ac1a-512544730056\_base\_resized.jpg)

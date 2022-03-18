@@ -6,6 +6,8 @@
 
 * [About](info/about/README.md)
   * [Portfolio](info/about/portfolio.md)
+* [Report](info/report/README.md)
+  * [#001\_Voicevoxで朗読作品作成](info/report/001voicevoxde.md)
 * [Contact＆Request](info/contact-request/README.md)
   * [Price List](info/contact-request/price-list.md)
 * [Games & Products](info/games-and-products/README.md)
