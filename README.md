@@ -2,13 +2,31 @@
 
 ## Welcome to My Homepage
 
-![こういう感じのものをつくっています](.gitbook/assets/mylive2d.gif)
+![Live2D](.gitbook/assets/mylive2d.gif)
 
-![](.gitbook/assets/y0x2w75fsxcdcquh.gif)
+![VRサービスに使う3D アバター制作](.gitbook/assets/y0x2w75fsxcdcquh.gif)
 
 {% embed url="https://www.youtube.com/watch?v=S0BrUyHQhX0" %}
+ドット絵のマウスカーソル
+{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=G_6kAKbwc4o&list=PLGOYNxXkXvOqPlB9GW2Amyv6AUagYUOtF&index=12" %}
+3Dモデル+Unityでの映像制作
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=tVKe5s5ENS4" %}
+\#002\_VoicevoxでSV作品作成(Report参照)
+{% endembed %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQIyD2hBQORE7S1aNBx5tx2s-GbWmED0ZcNh39haER8O9ue86jRXT1moOEzzrl87LoXU7ou1tXtvNW5/pubhtml" %}
+ゲーム攻略WikiにつかうGoogle Spread Sheetsの制作・更新・保守
+{% endembed %}
+
+##
+
+##
+
+##
 
 ## 目次
 
