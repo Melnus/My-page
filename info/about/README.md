@@ -1,5 +1,5 @@
 ---
-description: 'Twitter: @Melnus_ / Discord : Melnus#2688 / misskey.io:@Melnus'
+description: 'Discord : Melnus#2688 / misskey.io:@Melnus'
 ---
 
 # About
@@ -76,10 +76,6 @@ description: 'Twitter: @Melnus_ / Discord : Melnus#2688 / misskey.io:@Melnus'
 ## ・なにがスマホゲームたりえるか。
 
 {% embed url="https://note.com/melnus/n/n6ea8e9cbc928" %}
-
-
-
-{% embed url="https://twitter.com/Melnus_" %}
 
 
 
