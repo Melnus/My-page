@@ -1,5 +1,5 @@
 ---
-description: 'Discord : Melnus#2688 / misskey.io:@Melnus'
+description: 'Discord : Melnus#2688 / misskey.04.si:@Melnus'
 ---
 
 # About
