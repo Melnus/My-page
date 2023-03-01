@@ -30,7 +30,9 @@ description: 'Discord : Melnus#2688 / misskey.04.si:@Melnus'
 
 ### 自鯖
 
-{% embed url="https://discord.com/invite/rR4tbQsJ2q" %}
+{% embed url="https://discord.gg/NwjbFCWNFw" %}
+
+
 
 
 
